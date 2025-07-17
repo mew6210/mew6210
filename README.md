@@ -30,19 +30,19 @@
 
 ###
 
-<p align="left">👁️ Platinum-Eyes:<br>Overlay app for Warframe that automatically scans your screen during fissure runs, identifies dropped item rewards using OCR, and instantly displays real-time market prices from Warframe Market. It automates the manual price-checking process, saving players time without modifying game files.<br><br>Learned:<br>- Usage of Tesseract OCR and it's "pitfalls and oddities"<br>- Pre-processing and post-processing of OCR data<br>- Efficient, multi-threaded API requests<br>- Native GUI overlay developement</p>
+<p align="left">👁️ <a href="https://github.com/mew6210/Platinum-Eyes">Platinum-Eyes</a>:<br>Overlay app for Warframe that automatically scans your screen during fissure runs, identifies dropped item rewards using OCR, and instantly displays real-time market prices from Warframe Market. It automates the manual price-checking process, saving players time without modifying game files.<br><br>Learned:<br>- Usage of Tesseract OCR and it's "pitfalls and oddities"<br>- Pre-processing and post-processing of OCR data<br>- Efficient, multi-threaded API requests<br>- Native GUI overlay developement</p>
 
 ###
 
-<p align="left">🔤 Pslang:<br>Simple, easy-to-write pseudo-code language designed for educational and experimental purposes. It's a personal toy project and still very much a work-in-progress, with the parser currently under development. Expect bugs and incomplete features, use at your own risk!<br><br>Currently implemented - Lexer<br>Currently working on - Parser<br><br>Learned:<br>- Compiler theory<br>- Solid compiler process understanding</p>
+<p align="left">🔤 <a href="https://github.com/mew6210/pslang">Pslang</a>:<br>Simple, easy-to-write pseudo-code language designed for educational and experimental purposes. It's a personal toy project and still very much a work-in-progress, with the parser currently under development. Expect bugs and incomplete features, use at your own risk!<br><br>Currently implemented - Lexer<br>Currently working on - Parser<br><br>Learned:<br>- Compiler theory<br>- Solid compiler process understanding</p>
 
 ###
 
-<p align="left">🪵 Wood<br>Minimal, single-header logging library for my other projects.<br><br>Learned:<br>- Modern C++(17+) best practices and features</p>
+<p align="left">🪵 <a href="https://github.com/mew6210/wood">Wood</a>:<br>Minimal, single-header logging library for my other projects.<br><br>Learned:<br>- Modern C++(17+) best practices and features</p>
 
 ###
 
-<p align="left">📘 Stoodee:<br>Flutter-based mobile app that aims to simplify and systemize learning.<br><br>Learned:<br>- Modern widget-based front-end design<br>- Dependency management<br>- Cross-platform mobile app developement<br>- Implementing localization for supporting multiple languages</p>
+<p align="left">📘 <a href="https://github.com/Kenayv/Stoodee">Stoodee</a>:<br>Flutter-based mobile app that aims to simplify and systemize learning.<br><br>Learned:<br>- Modern widget-based front-end design<br>- Dependency management<br>- Cross-platform mobile app developement<br>- Implementing localization for supporting multiple languages</p>
 
 ###
 
