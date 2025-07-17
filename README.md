@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">🔤 <a href="https://github.com/mew6210/pslang">Pslang</a>:<br>Simple, easy-to-write pseudo-code language designed for educational and experimental purposes. It's a personal toy project and still very much a work-in-progress, with the parser currently under development. Expect bugs and incomplete features, use at your own risk!<br><br>Currently implemented - Lexer<br>Currently working on - Parser<br><br>Learned:<br>- Compiler theory<br>- Solid compiler process understanding</p>
+<p align="left">🔤 Pslang:<br>Simple, easy-to-write pseudo-code language designed for educational and experimental purposes. It's a personal toy project and still very much a work-in-progress, with the parser currently under development. Expect bugs and incomplete features, use at your own risk!<br><br>Currently implemented - Lexer<br>Currently working on - Parser<br><br>Learned:<br>- Compiler theory<br>- Solid compiler process understanding</p>
 
 ###
 
