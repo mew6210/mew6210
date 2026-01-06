@@ -43,7 +43,7 @@
 
 
 ###
-  <p align="left">🧮 <b><a href="https://github.com/Kenayv/Stoodee">Big-calculator</a></b>:<br>First uni project with REPL-like environement and a tree-walk interpreter along with a BigInt library made to compute huge numbers.<br><b>Learned</b>:
+  <p align="left">🧮 <b><a href="https://github.com/mew6210/big-calculator">Big-calculator</a></b>:<br>First uni project with REPL-like environement and a tree-walk interpreter along with a BigInt library made to compute huge numbers.<br><b>Learned</b>:
   <ul>
   <li>How to implement numbers of any size in C++</li> 
   <li>How to make a tree-walk interpreter</li> 
