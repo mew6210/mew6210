@@ -39,19 +39,23 @@
   
   </ul>
   </p>
+
+
+
+###
+  <p align="left">🧮 <b><a href="https://github.com/Kenayv/Stoodee">Big-calculator</a></b>:<br>First uni project with REPL-like environement and a tree-walk interpreter along with a BigInt library made to compute huge numbers.<br><b>Learned</b>:
+  <ul>
+  <li>How to implement numbers of any size in C++</li> 
+  <li>How to make a tree-walk interpreter</li> 
+  <li>How to make a simple evaluator</li> 
+  <li>How AST's work and how to work with them</li> 
+  </p>
+    
+  </ul>
   
 ###
 
-<p align="left">🔤 <b>Pslang</b>:<br>Simple, easy-to-write pseudo-code language designed for educational and experimental purposes. It's a personal toy project and still very much a work-in-progress, with the parser currently under development. Expect bugs and incomplete features, use at your own risk!<br><br>Currently implemented - Lexer<br>Currently working on - Parser<br><b>Learned</b>:
-  <ul>  
-  <li>Compiler theory</li>
-  <li>Solid compiler process understanding</li>
-  </p>
-  </ul>
-
-###
-
-<p align="left">🪵 <b><a href="https://github.com/mew6210/wood">Wood</a></b>:<br>Minimal, single-header logging library for my other projects.<br><b>Learned</b>:
+<p align="left">🪓<b><a href="https://github.com/mew6210/wood">Wood</a></b>:<br>Minimal, single-header logging library for my other projects.<br><b>Learned</b>:
   <ul>
   <li>Modern C++(17+) best practices and features</li>
   </ul>
@@ -66,7 +70,7 @@
   <li>Cross-platform mobile app developement</li> 
   <li>Implementing localization for supporting multiple languages</li> 
   </p>
-  </ul>
+
   
 ###
 
