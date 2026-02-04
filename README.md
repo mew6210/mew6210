@@ -1,11 +1,11 @@
-<h1 align="left">👩‍💻  <b>Marcin Skrzypek</b></h1>
+<h1 align="left"> <b>Marcin Skrzypek</b></h1>
 
 ###
-<p align="left">🎓 Graduated with an <b>IT Technician diploma</b>, specializing in <b>computer systems, networks, websites and databases</b>.<br>🔧 Passionate about programming and building tools that solve actual problems.<br>📚 Currently learning <b>cross-platform C++ developement with CMake</b>.<br>🚀 I’m always exploring new technologies and improving my skills through hands-on projects, some of which I think are pretty cool (see below!).</p>
+<p align="left"> Graduated with an <b>IT Technician diploma</b>, specializing in <b>computer systems, networks, websites and databases</b>.<br>Passionate about programming and building tools that solve actual problems.<br> Currently learning <b>cross-platform C++ developement with CMake</b>.<br> I’m always exploring new technologies and improving my skills through hands-on projects, some of which I think are pretty cool (see below!).</p>
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left"> Language and tools</h2>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">🛠️ Top Projects:</h2>
+<h2 align="left">Favorite Projects:</h2>
 
 ###
 
