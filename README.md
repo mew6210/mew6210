@@ -1,7 +1,7 @@
 <h1 align="left"> <b>Marcin Skrzypek</b></h1>
 
 ###
-<p align="left"> Graduated with an <b>IT Technician diploma</b>, specializing in <b>computer systems, networks, websites and databases</b>.<br>Passionate about programming and building tools that solve actual problems.<br> Currently learning <b>cross-platform C++ developement with CMake</b>.<br> I’m always exploring new technologies and improving my skills through hands-on projects, some of which I think are pretty cool (see below!).</p>
+<p align="left"> Graduated from a technical school with an <b>IT Technician diploma</b>, specializing in <b>computer systems, networks, websites and databases</b>.<br>Currently studying at the <a href = "https://www.polsl.pl/en/">Silesian University of Technology</a><br>Currently learning <b>cross-platform C++ developement with CMake</b>.<br> I’m always exploring new technologies and improving my skills through hands-on projects, some of which I think are pretty cool (see below!).</p>
 
 ###
 
